@@ -1,7 +1,5 @@
 import requests
-from bs4 import BeautifulSoup
 import csv
-from selenium import webdriver
 import json
 from parser_2.config import site
 
